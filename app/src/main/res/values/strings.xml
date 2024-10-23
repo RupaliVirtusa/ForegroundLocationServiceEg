@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroundLocationTracking</string>
+    <string name="channel_name">My Channel</string>
+    <string name="location_channel_id">location</string>
+</resources>
